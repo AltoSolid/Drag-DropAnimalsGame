@@ -10,11 +10,11 @@
 
 
 ## 결과
-![gif]()
+![gif](https://github.com/AltoSolid/Drag-DropAnimalsGame/blob/main/Images/gif.gif)
 
 비디오에서는 카피 이미지가 나오지 않다.하지만 정말 한다: 
 
-![image-dragged]()
+![image-dragged](https://github.com/AltoSolid/Drag-DropAnimalsGame/blob/main/Images/image-1.png)
 
 ## 유용한 정보
 위의 효과를 얻어려면 다음을 사용하는 방법을 알아야 한다:

@@ -10,11 +10,11 @@ All this is based on this [video](https://www.youtube.com/watch?v=7HUCAYMylCQ)
 
 
 ## Result
-![gif]()
+![gif](https://github.com/AltoSolid/Drag-DropAnimalsGame/blob/main/Images/gif.gif)
 
 Notice that the gif doesn't show the transparent copy of the image that is dragged. But it does: 
 
-![image-dragged]()
+![image-dragged](https://github.com/AltoSolid/Drag-DropAnimalsGame/blob/main/Images/image-1.png)
 
 ## Useful information
 In order to accomplish the above code, you must need to understand: 

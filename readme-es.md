@@ -10,11 +10,11 @@ Todo esto se basa en el siguiente [video](https://www.youtube.com/watch?v=7HUCAY
 
 
 ## Resultado
-![gif]()
+![gif](https://github.com/AltoSolid/Drag-DropAnimalsGame/blob/main/Images/gif.gif)
 
 Nota: En el video no se aprecia que se arrastra una copia transparente de la imagen que se está arrastrando. Pero en realidad lo hace: 
 
-![image-dragged]()
+![image-dragged](https://github.com/AltoSolid/Drag-DropAnimalsGame/blob/main/Images/image-1.png)
 
 ## Información útil
 Para poder llegar a lo anteriormente mostrado, se necesita entender lo siguiente: 
