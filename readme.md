@@ -27,7 +27,7 @@ In order to accomplish the above code, you must need to understand:
 - [Drag and Drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
 
 ### CSS properties
-I'll consider these properties to be the key properties do make this game:
+I'll consider these properties to be the key properties to make this game:
 - [transition](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
 - [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform) 
 - [pointer-events](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events)
