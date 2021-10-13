@@ -4,7 +4,7 @@
 이것은 모두 다음 [비디오](https://www.youtube.com/watch?v=7HUCAYMylCQ)를 기반으로한다. 
 
 ## Readme의 언어 버전
-[English version](https://github.com/AltoSolid/Drag-DropAnimalsGamehttps://github.com/AltoSolid/Drag-DropAnimalsGame)
+[English version](https://github.com/AltoSolid/Drag-DropAnimalsGame)
 
 [Versión en español](https://github.com/AltoSolid/Drag-DropAnimalsGame/blob/main/readme-es.md)
 
