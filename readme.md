@@ -4,9 +4,9 @@ This little game was develop to practice Drag and drop events with JavaScript.
 All this is based on this [video](https://www.youtube.com/watch?v=7HUCAYMylCQ)
 
 ## Readme Languages version
-[Versión en español]()
+[Versión en español](https://github.com/AltoSolid/Drag-DropAnimalsGame/blob/main/readme-es.md)
 
-[한국어 버전]()
+[한국어 버전](https://github.com/AltoSolid/Drag-DropAnimalsGame/blob/main/readme-ko.md)
 
 
 ## Result

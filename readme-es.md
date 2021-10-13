@@ -4,9 +4,9 @@ Este pequeño juego fue desarrollado para practicar eventos de Drag & Drop con J
 Todo esto se basa en el siguiente [video](https://www.youtube.com/watch?v=7HUCAYMylCQ)
 
 ## Versiones de idiomas de Readme
-[English version]()
+[English version](https://github.com/AltoSolid/Drag-DropAnimalsGame)
 
-[한국어 버전]()
+[한국어 버전](https://github.com/AltoSolid/Drag-DropAnimalsGame/blob/main/readme-ko.md)
 
 
 ## Resultado
